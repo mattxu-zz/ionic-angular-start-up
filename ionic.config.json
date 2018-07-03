@@ -1,0 +1,8 @@
+{
+  "name": "device-cloud-mobile-webui",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
